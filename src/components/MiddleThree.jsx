@@ -148,7 +148,7 @@ const MiddleThree = () => {
             <Items style={item2}>
               <Boxes style={box2a}>02</Boxes>
               <Boxes style={box3}>
-                Introducing Ai to children in an age appropriate manner
+                 Gain awareness on Al and build an interactive story around it
               </Boxes>
               <Boxes style={box2b}></Boxes>
               <P style={P2a}></P>
@@ -158,13 +158,13 @@ const MiddleThree = () => {
               <Boxes style={box1}>03</Boxes>
               <Boxes style={box2}></Boxes>
               <Boxes style={box3}>
-                Introducing Ai to children in an age appropriate manner
+                Acquire programming skills in a user-friendly format
               </Boxes>
             </Items>
             <Items style={item4}>
               <Boxes style={box2a}>04</Boxes>
               <Boxes style={box3}>
-                Introducing Ai to children in an age appropriate manner
+                Exposure to mini projects on diverse topics
               </Boxes>
               <Boxes style={box2b}></Boxes>
               <P style={P2a}></P>
@@ -174,7 +174,7 @@ const MiddleThree = () => {
               <Boxes style={box1}>05</Boxes>
               <Boxes style={box2}></Boxes>
               <Boxes style={box3}>
-                Introducing Ai to children in an age appropriate manner
+                Train the teachers programme
               </Boxes>
             </Items>
           </Wrapper>
